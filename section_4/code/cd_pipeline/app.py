@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # list of cat images
 images = [
-   "https://media.tenor.com/JkVlDpU8wWUAAAAC/scemer-staring-cat.gif"
+   "https://media.tenor.com/iALgQGVcpz4AAAAj/scemer-staring-cat.gif"
 ]
 
 @app.route('/')
