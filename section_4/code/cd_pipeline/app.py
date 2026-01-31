@@ -5,7 +5,10 @@ app = Flask(__name__)
 
 # list of cat images
 images = [
-   "https://media.tenor.com/iALgQGVcpz4AAAAj/scemer-staring-cat.gif"
+   "https://media.tenor.com/iALgQGVcpz4AAAAj/scemer-staring-cat.gif",
+   "https://media.tenor.com/KwvyrFpeFcwAAAAi/bongo-cat-sweet.gif",
+   "https://media.tenor.com/vnkvXD3l-vgAAAAi/happy-cat.gif",
+   "https://media1.tenor.com/m/WsWej1C3ePYAAAAC/yippee-cat-kitty.gif"
 ]
 
 @app.route('/')
